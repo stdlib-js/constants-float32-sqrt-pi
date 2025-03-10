@@ -153,6 +153,13 @@ Macro for the square root of the mathematical constant [π][@stdlib/constants/fl
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float32/pi`][@stdlib/constants/float32/pi]</span><span class="delimiter">: </span><span class="description">π.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/sqrt-pi`][@stdlib/constants/float64/sqrt-pi]</span><span class="delimiter">: </span><span class="description">square root of π.</span>
+
 </section>
 
 <!-- /.related -->
@@ -183,7 +190,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -232,6 +239,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/constants/float32/pi]: https://github.com/stdlib-js/constants-float32-pi
 
 <!-- <related-links> -->
+
+[@stdlib/constants/float64/sqrt-pi]: https://github.com/stdlib-js/constants-float64-sqrt-pi
 
 <!-- </related-links> -->
 
