@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_SQRT_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-pi@deno/mod.js';
+import FLOAT32_SQRT_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-pi@v0.1.1-deno/mod.js';
 ```
 
 #### FLOAT32_SQRT_PI
@@ -67,7 +67,7 @@ var bool = ( FLOAT32_SQRT_PI === 1.7724539041519165 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_SQRT_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-pi@deno/mod.js';
+import FLOAT32_SQRT_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-pi@v0.1.1-deno/mod.js';
 
 console.log( FLOAT32_SQRT_PI );
 // => 1.7724539041519165
